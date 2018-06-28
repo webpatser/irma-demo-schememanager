@@ -89,8 +89,8 @@
 		</Attribute>
 		<Attribute id="nationality" optional="true">
 			<Name>
-				<en>Nationaliteit</en>
-				<nl>Nationality</nl>
+				<en>Nationality</en>
+				<nl>Nationaliteit</nl>
 			</Name>
 			<Description>
 				<en>Your nationality</en>
